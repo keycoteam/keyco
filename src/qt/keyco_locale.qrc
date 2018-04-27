@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/keyco_bg.qm</file>
+        <file alias="de">locale/keyco_de.qm</file>
+        <file alias="en">locale/keyco_en.qm</file>
+        <file alias="es">locale/keyco_es.qm</file>
+        <file alias="fi">locale/keyco_fi.qm</file>
+        <file alias="fr">locale/keyco_fr.qm</file>
+        <file alias="it">locale/keyco_it.qm</file>
+        <file alias="ja">locale/keyco_ja.qm</file>
+        <file alias="pl">locale/keyco_pl.qm</file>
+        <file alias="pt">locale/keyco_pt.qm</file>
+        <file alias="ru">locale/keyco_ru.qm</file>
+        <file alias="sk">locale/keyco_sk.qm</file>
+        <file alias="sv">locale/keyco_sv.qm</file>
+        <file alias="vi">locale/keyco_vi.qm</file>
+        <file alias="zh_CN">locale/keyco_zh_CN.qm</file>
+        <file alias="zh_TW">locale/keyco_zh_TW.qm</file>
+    </qresource>
+</RCC>

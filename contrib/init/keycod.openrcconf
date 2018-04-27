@@ -1,0 +1,26 @@
+# /etc/conf.d/keycod: config file for /etc/init.d/keycod
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/keyco/keyco.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/keycod"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/keycod.pid"
+
+# Where to write keycod data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/keycod"
+
+# User and group to own keycod process
+#BITCOIND_USER="keyco"
+#BITCOIND_GROUP="keyco"
+
+# Path to keycod executable
+#BITCOIND_BIN="/usr/bin/keycod"
+
+# Nice value to run keycod under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

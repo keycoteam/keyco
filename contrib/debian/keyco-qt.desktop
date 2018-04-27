@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Keyco
+Comment=Keyco P2P Cryptocurrency
+Comment[fr]=Keyco, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Keyco, eşten eşe kriptografik sanal para birimi
+Exec=keyco-qt %u
+Terminal=false
+Type=Application
+Icon=keyco128
+MimeType=x-scheme-handler/keyco;
+Categories=Office;Finance;
