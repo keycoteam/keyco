@@ -107,7 +107,7 @@ public:
         nMinerThreads = 0;
         nTargetTimespan = 86400; // Keyco: 1 day
         nTargetSpacing = 2 * 60;  // Keyco: 1 minute
-        nLastPOWBlock = 400000;
+        nLastPOWBlock = 39555;
         nMaturity = 100;
         nMasternodeCountDrift = 20;
 		nMasternodeColleteralLimxDev = 1000; //Params().MasternodeColleteralLimxDev()
