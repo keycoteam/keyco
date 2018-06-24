@@ -1,4 +1,4 @@
-# KEYCO [KEC] Core Wallet 2.1.0
+# KEYCO [KEC] Core Wallet 2.2.0.1
 
 # Coin Specs
 
@@ -8,7 +8,7 @@
 • Block Time: 120 Seconds  
 • Maximum Coin Supply: 18,00,00
 • Masternode Requirements: 1,000 KEC
-• Reward Scheme: PoW-10% / Masternodes-90%
+• Reward Scheme: POS-10% / Masternodes-90%
 • Prefix: Keyco adresses start with the capital letter "K"
 
 
