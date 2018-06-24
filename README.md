@@ -1,4 +1,4 @@
-# KEYCO [KEC] Core Wallet 2.2.0.1
+# KEYCO [KEC] Core Wallet 2.3.0.1
 
 # Coin Specs
 
