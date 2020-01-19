@@ -3,12 +3,12 @@
 # Coin Specs
 
 • Ticker: KEC
-• PoW Algorithm: Tribus 
+• POS
 • Premine: 2%  
 • Block Time: 120 Seconds  
 • Maximum Coin Supply: 18,00,00
 • Masternode Requirements: 1,000 KEC
-• Reward Scheme: POS-10% / Masternodes-90%
+• Reward Scheme: POS-5% / Masternodes-95%
 • Prefix: Keyco adresses start with the capital letter "K"
 
 
